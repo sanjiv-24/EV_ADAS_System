@@ -1,4 +1,4 @@
-# EV ADAS Dashboard System 🚗⚡
+# EV ADAS System | Real-Time Embedded Telemetry & Visualization🚗⚡
 
 ## Overview
 
