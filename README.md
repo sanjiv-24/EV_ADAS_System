@@ -93,17 +93,6 @@ python Dashboard/ev_dashboard.py
 
 ---
 
-## Screenshots
-
-### Dashboard
-
-> Add a screenshot of your dashboard here.
-
-### Hardware Setup
-
-> Add a photo of your STM32 hardware setup here.
-
----
 
 ## Future Improvements
 
@@ -122,9 +111,9 @@ python Dashboard/ev_dashboard.py
 
 Electronics and Communication Engineering
 
-GitHub: https://github.com/<your-username>
+GitHub: https://github.com/<sanjiv-24>
 
-LinkedIn: https://www.linkedin.com/in/<your-linkedin>
+LinkedIn: https://www.linkedin.com/in/<sanjiv-sekaran-m>
 
 ---
 
